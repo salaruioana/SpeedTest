@@ -25,4 +25,6 @@ You can install the required package using pip:
 pip install speedtest
 ```
 ## Running the app
-- python main.py
+```bash
+python main.py
+```
