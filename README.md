@@ -1,6 +1,6 @@
 # Speed Test 
 
-A fast, stylish, and interactive GUI application to measure your internet speed — built with Python and Tkinter.
+A stylish and interactive GUI application to measure your internet speed — built with Python and Tkinter.
 
 ##  Features
 
